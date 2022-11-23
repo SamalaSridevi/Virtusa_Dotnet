@@ -1,0 +1,37 @@
+
+.center {
+    margin: auto;
+    width: 55%;
+    border: 1px solid #191a18;
+    padding: 8px;
+    border-radius: 10px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: large;
+    text-align: left;
+    font-size: large;
+  }
+  .drop {
+    position: relative;
+    display: inline-block;
+  }
+  .c2{
+    position: top;
+    float: right;
+    display: block;
+    font-size: large;
+    text-align: center;
+  }
+  .b1{
+    background-color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    border: none;
+  padding: 8px 20px;
+  border-radius: 10%;
+  }
+  
